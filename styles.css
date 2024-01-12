@@ -38,7 +38,7 @@ body {
 
 }
 .container img{
-    border-radius: 0.625;
+    border-radius: 1rem;
     margin-bottom: 1rem;
 }
 .container h1{
