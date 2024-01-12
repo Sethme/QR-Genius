@@ -33,7 +33,7 @@ body {
     background-color: var(--white);
     padding: 1.25rem;
     border-radius: 1rem;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.05);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     margin-bottom: 2rem;
 
 }
